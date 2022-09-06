@@ -1,0 +1,47 @@
+---
+title: "Guanhua Tan"
+image: images/Guanhua_Tan.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/Guanhua_Tan.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/TerenceGTan
+---
+
+##Instructions
+
+-   save a copy of this document as *FirstLast.qmd* in the **about** folder
+-   replace *Your Name* in yaml header with your first and last name
+-   save an image (jpeg, png) to use in the **about/images** folder
+-   replace image names in yaml header
+-   replace github user name
+-   fill in information below, as appropriate
+-   commit to github and submit pull request
+
+## Education/Work Background
+
+Ph.D. candidate, History Department at UMass /M.A., History Department at Illinois State University/ M.A., History Department at East China Normal University/ B.A. History Department at East China Normal University
+
+## R experience
+
+No previous experience, a complete beginner
+
+## Research interests
+
+History of Education in the People of Republic China
+
+## Hometown
+
+Shanghai, China
+
+## Hobbies
+
+Reading, Food, Window Shopping
+
+## Fun fact
+
+UMass Dinning
